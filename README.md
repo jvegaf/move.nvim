@@ -1,3 +1,15 @@
+# notice⚠️⚠️⚠️
+
+I am not the author of this plugin. This repository is written by **fedepujol**. (**fedepujol/move.nvim**)
+
+I really liked this plugin, so when I found out the author had disappeared, I created this repository.
+
+**I am not able to maintain the plugin.**
+
+**If there are any violations, please contact me to remove the repository.**
+
+---
+
 # move.nvim
 
 Gain the power to move lines and blocks!
